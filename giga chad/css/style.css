@@ -1,0 +1,84 @@
+main{
+text-align: center;
+}
+footer{
+    text-align: center;
+}
+.logo{
+    background-color: black;
+    width: 100%;
+    
+}
+.logo2{
+    width: 150px;
+    padding: 10px;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.65;
+    color: #393d41 ;
+   
+}
+.turchese{
+    color: #25a2c3;
+    font-family: "Montserrat" , sans-serif;
+    font-weight: bold;
+}
+.bottone{
+    background-color: #f04c2f ;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    width: 120px;
+    height: 30px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+
+}
+.top{
+padding: 15%;
+}
+.background{
+    image-rendering: optimizeQuality;
+    background-repeat: no-repeat;
+}
+.computer{
+    border-radius: 50%;
+    size: 100px;
+    padding-left: 200px;
+}
+.testina{
+    padding-right: 130px;
+}
+.rosso{
+    margin-top: 100px;
+    background-color: #e22d0e;
+    color: white;
+    padding: 30px;
+}
+.immagine1  {
+    border: 1px solid #dee1e3;
+    width: 30%;
+    display: inline-block;
+    margin: 20px;
+}
+.divano{
+    max-width: 100%;
+    box-sizing: border-box;
+    height: 320px;
+}
+footer{
+    background-color: #25a2c3;
+    color: #c8e7f0;
+    padding: 20px;
+}
+.foot{
+    border-bottom: 2px solid #c8e7f0;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+a:link{
+   color: #dee1e3 ;
+   background-color: transparent;
+}
